@@ -1,4 +1,11 @@
 # Zusammenfassung-Arduino-Sensoren
+--------------------------------------
+
+- [Elektronische Module](https://github.com/Linu-Tec/Zusammenfassung-Arduino-Sensoren/tree/main?tab=readme-ov-file#elektronische-module)
+- [Sensoren](https://github.com/Linu-Tec/Zusammenfassung-Arduino-Sensoren/tree/main?tab=readme-ov-file#sensoren)
+- [Bauelemente](https://github.com/Linu-Tec/Zusammenfassung-Arduino-Sensoren/tree/main?tab=readme-ov-file#bauelemente)
+- [Projekte mit verschiedenen Sensoren](https://github.com/Linu-Tec/Zusammenfassung-Arduino-Sensoren/tree/main?tab=readme-ov-file#projekte-mit-verschiedenen-sensoren)
+
 
 --------------------------------------
 # Elektronische Module
