@@ -72,6 +72,7 @@
 --------------------------------------
 # Projekte mit verschiedenen Sensoren
 - [OLED Display und Entfernung messen](https://github.com/Linu-Tec/OLED-Display-und-Entfernung-messen)
+- [Temperaturmessstation mit LCD, DHT11 & 22, DS18B20, LM35, TMP36](https://github.com/Linu-Tec/Temperaturmessstation)
 
 
 
