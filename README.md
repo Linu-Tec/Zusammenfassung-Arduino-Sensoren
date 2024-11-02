@@ -1,6 +1,4 @@
 # Zusammenfassung-Arduino-Sensoren
-Zusammenfassung Arduino Sensoren
-
 
 --------------------------------------
 # Elektronische Module
