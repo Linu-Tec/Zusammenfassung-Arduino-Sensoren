@@ -37,8 +37,6 @@
 ## Strom und Spannung
 - [Stromstärkesensor (ACS712)](https://github.com/Linu-Tec/Stromstaerkesensor-ACS712)
 - [Spannung messen](https://github.com/Linu-Tec/Spannung-messen)
-## Spannung messen
-- []()
 ## Temperatur
 - [Temperatur messen TMP36](https://github.com/Linu-Tec/Temperatur-messen)
 - [Temperatur messen LM35 und DS18B20](https://github.com/Linu-Tec/Temperatur-messen-Zusatz)
