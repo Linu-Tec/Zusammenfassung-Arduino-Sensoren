@@ -4,12 +4,12 @@ Zusammenfassung Arduino Sensoren
 
 # Elektronische Module
 
-## Displays
-## Wireless
-## Motoren
-## Keypads und Buttons
-## Musik und Sound
-## Zubehör
+### Displays
+### Wireless
+### Motoren
+### Keypads und Buttons
+### Musik und Sound
+### Zubehör
 
 # Sensoren
 
