@@ -111,6 +111,6 @@ Datei -> Voreinstellungen -> Zusätzliche Boardwerwalter-URLs:
 - Digistump: http://digistump.com/package_digistump_index.json
 - Attiny: https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json
 
-[Liste mit weiten URLs](https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls)
+[Liste mit weiteren URLs](https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls)
 
 --------------------------------------
