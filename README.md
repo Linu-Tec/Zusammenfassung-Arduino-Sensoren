@@ -4,6 +4,7 @@
 - [Sensoren](https://github.com/Linu-Tec/Zusammenfassung-Arduino-Sensoren/tree/main?tab=readme-ov-file#sensoren)
 - [Bauelemente](https://github.com/Linu-Tec/Zusammenfassung-Arduino-Sensoren/tree/main?tab=readme-ov-file#bauelemente)
 - [Projekte mit verschiedenen Sensoren](https://github.com/Linu-Tec/Zusammenfassung-Arduino-Sensoren/tree/main?tab=readme-ov-file#projekte-mit-verschiedenen-sensoren)
+- [Arduino weitere Boards hinzufügen](https://github.com/Linu-Tec/Zusammenfassung-Arduino-Sensoren?tab=readme-ov-file#arduino-weitere-boards-hinzuf%C3%BCgen)
 
 
 --------------------------------------
@@ -84,7 +85,7 @@
 
 --------------------------------------
 Weitere Infos unter [Funduino](https://funduino.de/)
-
+--------------------------------------
 
 
 
@@ -99,6 +100,7 @@ Datei -> Voreinstellungen -> Zusätzliche Boardwerwalter-URLs:
 
 
 
+--------------------------------------
 ## URLs
 - ESP32: https://dl.espressif.com/dl/package_esp32_index.json
 - ESP8266: https://arduino.esp8266.com/stable/package_esp8266com_index.json
@@ -107,3 +109,4 @@ Datei -> Voreinstellungen -> Zusätzliche Boardwerwalter-URLs:
 
 [Liste mit weiten URLs](https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls)
 
+--------------------------------------
