@@ -92,6 +92,7 @@ Weitere Infos unter [Funduino](https://funduino.de/)
 # Arduino weitere Boards hinzufügen
 
 Datei -> Voreinstellungen -> Zusätzliche Boardwerwalter-URLs: 
+
 **Jede URL muss in eine eigene Zeile!**
 
 ![image](https://github.com/user-attachments/assets/30a1a6dd-0f17-4ee8-9ee4-fb9ddcfdb999)
@@ -102,6 +103,9 @@ Datei -> Voreinstellungen -> Zusätzliche Boardwerwalter-URLs:
 
 --------------------------------------
 ## URLs
+
+**Jede URL muss in eine eigene Zeile!**
+
 - ESP32: https://dl.espressif.com/dl/package_esp32_index.json
 - ESP8266: https://arduino.esp8266.com/stable/package_esp8266com_index.json
 - Digistump: http://digistump.com/package_digistump_index.json
