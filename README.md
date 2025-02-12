@@ -84,3 +84,26 @@
 
 --------------------------------------
 Weitere Infos unter [Funduino](https://funduino.de/)
+
+
+
+
+# Arduino weitere Boards hinzufügen
+
+Datei -> Voreinstellungen -> Zusätzliche Boardwerwalter-URLs: 
+**Jede URL muss in eine eigene Zeile!**
+
+![image](https://github.com/user-attachments/assets/30a1a6dd-0f17-4ee8-9ee4-fb9ddcfdb999)
+![image](https://github.com/user-attachments/assets/fdf2c86c-2bc7-4324-9b48-836c1a7c3487)
+![image](https://github.com/user-attachments/assets/c5229f2d-2d0f-44fc-99c6-5979d8427eeb)
+
+
+
+## URLs
+- ESP32: https://dl.espressif.com/dl/package_esp32_index.json
+- ESP8266: https://arduino.esp8266.com/stable/package_esp8266com_index.json
+- Digistump: http://digistump.com/package_digistump_index.json
+- Attiny: https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json
+
+[Liste mit weiten URLs](https://github.com/arduino/Arduino/wiki/Unofficial-list-of-3rd-party-boards-support-urls)
+
